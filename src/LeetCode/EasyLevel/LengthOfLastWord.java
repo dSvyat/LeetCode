@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.EasyLevel;
 
 //just length of last word in sentence
 public class LengthOfLastWord {

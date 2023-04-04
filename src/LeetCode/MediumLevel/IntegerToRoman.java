@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.MediumLevel;
 
 import java.util.ArrayList;
 import java.util.HashMap;
