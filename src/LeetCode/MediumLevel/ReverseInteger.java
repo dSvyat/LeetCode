@@ -10,8 +10,6 @@ If reversing x causes the value to go outside the signed 32-bit integer range [-
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
  */
 public class ReverseInteger {
-    public static void main(String[] args) {
-    }
     public static int reverse(int x) {
         long reversed = 0;
         while (x != 0) {
